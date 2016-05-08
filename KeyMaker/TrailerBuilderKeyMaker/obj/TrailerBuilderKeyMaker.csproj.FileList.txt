@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TrailerBuilderKeyMaker.Form1.resources
+obj\Debug\TrailerBuilderKeyMaker.Properties.Resources.resources
+obj\Debug\TrailerBuilderKeyMaker.csproj.GenerateResource.Cache
+bin\Debug\TrailerBuilderKeyMaker.exe
+bin\Debug\TrailerBuilderKeyMaker.pdb
+obj\Debug\TrailerBuilderKeyMaker.exe
+obj\Debug\TrailerBuilderKeyMaker.pdb
+bin\Release\TrailerBuilderKeyMaker.exe
+bin\Release\TrailerBuilderKeyMaker.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TrailerBuilderKeyMaker.Form1.resources
+obj\Release\TrailerBuilderKeyMaker.Properties.Resources.resources
+obj\Release\TrailerBuilderKeyMaker.csproj.GenerateResource.Cache
+obj\Release\TrailerBuilderKeyMaker.exe
+obj\Release\TrailerBuilderKeyMaker.pdb

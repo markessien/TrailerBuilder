@@ -1,0 +1,59 @@
+Tested and functional in the attached version
+---------------------------------------------
+
+> Playlist Videos
+  - Open player
+  - Select playlist file by clicking the "browse" button
+  - Push "Save Settings". The playlist file will proceed to play
+  
+> Playlist videos playing in loop
+  - Allow the above to continue. It will loop forever
+
+> Webcam playback
+  - Open the Holoplayer
+  - Select the combo box with "source" to webcam
+  - Press Save. Webcam input displays
+
+> DVD playback
+   - Open the Holoplayer
+   - Select the source to be DVD
+   - Press Save.
+
+> Playing multiple items
+   - Open the holoplayer
+   - Press the button saying "Add". A new player is added to the list on the left of the player
+   - Select Player 2 from that list
+   - Select "Playlist" as the source
+   - Browse for playlist file
+   - Push the save button
+   - A second scren will appear playing this second file
+
+> Playing multiple items on two different screens
+   - After going through the process above, open the resize dialog
+   - Move the second player into the second screen
+
+> Skinning
+   - Browse for a skin
+   - Select the skin
+   - press the save button
+
+> Separate skinning
+   - Select player 1 from the list of players
+   - Select the skin
+   - Select player 2 from the list of players
+   - Select the skin
+   - Press the save button
+
+> Resizing of video window to percentages
+   - All player windows are freely resizable using the controls
+
+> Reloading of playlist file
+   - Select playlist file
+   - Add a file to the playlist file
+   - Watch as file is shown in player 
+
+> Keystrokes
+   - Press 1 to 9 to select the player
+   - Press spacebar to pause
+   - Press H to open dialog 
+   - Press P, N to go previous or next
